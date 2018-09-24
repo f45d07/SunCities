@@ -1,7 +1,7 @@
 <template>
   <div class="row">
             <div class="col s6 offset-s3">
-                    <h5>Site title here...</h5>
+                    <h5>SunCities</h5>
                     <PlaceSearch  />
             </div>
             <div class="col s6 offset-s3">
